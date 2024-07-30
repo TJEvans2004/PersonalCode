@@ -1,0 +1,22 @@
+#body{
+    background-color: rgb(252, 250, 250);
+}
+
+#waterandgas{
+    font-weight: 520;
+}
+
+#mainheading{
+    text-align: center;
+    border: 3px;
+    border-style: solid;
+    margin-left: 585px;
+    margin-right: 585px;
+}
+
+.icon{
+    box-sizing: border-box;
+    width: 75px;
+    height: auto;
+    margin: 10px;
+}
